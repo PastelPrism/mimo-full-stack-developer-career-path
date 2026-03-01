@@ -38,7 +38,7 @@ Extended challenges for each project will be added to this folder later on.
 | 05  | [Trip Planner](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/05-trip-planner) | JavaScript | Code a Trip Planner with JavaScript | None, is JavaScript | ✅ |
 | 06  | [Coffee Shop Menu](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/06-coffee-shop-menu) | HTML & CSS | Create a menu for a coffee shop with HTML & CSS | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/06-coffee-shop-menu/) | ✅  |
 | 07  | [Online Resume](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/07-online-resume) | HTML | Create an online resume | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/07-online-resume/) | ✅ |
-| 08  | Portfolio Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 08  | [Portfolio Website]https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/08-portfolio-website | HTML | Create a portfolio website for Nina| [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/08-portfolio-website/) | ✅ |
 | 09  | Vintage Cars Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 10 | Guessing Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 11 | Ice Cream Budget | _Soon_ | _Soon_ | _Soon_ | 🚧 |
