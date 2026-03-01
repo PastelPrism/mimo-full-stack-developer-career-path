@@ -36,7 +36,7 @@ Extended challenges for each project will be added to this folder later on.
 | 03  | [Air Conditioning Program](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/03-air-conditioning-program) | JavaScript | Create automation with JavaScript on air conditioning devices | None, is JavaScript | ✅ |
 | 04  | [Class Test Results](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/04-class-test-results) | HTML, CSS & JavaScript | Calculate statistics from a class' test results | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/04-class-test-results/)| ✅  |
 | 05  | [Trip Planner](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/05-trip-planner) | JavaScript | Code a Trip Planner with JavaScript | None, is JavaScript | ✅ |
-| 06  | Coffee Shop Menu | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 06  | [Coffee Shop Menu](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/06-coffee-shop-menu) | HTML & CSS | Create a menu for a coffee shop with HTML & CSS | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/06-coffee-shop-menu/) | ✅  |
 | 07  | Online Resume | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 08  | Portfolio Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 09  | Vintage Cars Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
