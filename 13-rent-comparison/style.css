@@ -1,0 +1,35 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: midnightBlue;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 1.4em;
+  color: white;
+  background: midnightblue;
+  padding: 8px;
+  width: 100vw;
+}
+
+.city {
+  background-color: plum;
+  padding: 8px;
+  margin-bottom: 0px;
+  width: 50vw;
+}
+
+#comparison {
+  background-color: darkmagenta;
+  color: white;
+  border-radius: 16px;
+  padding: 8px;
+  margin-top: 32px;
+  width: 50vw;
+}

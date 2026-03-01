@@ -43,7 +43,7 @@ Extended challenges for each project will be added to this folder later on.
 | 10 | [Guessing Game](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/10-guessing-game) | HTML, CSS & JavaScript | Create a Number Guessing Game | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/10-guessing-game/) | ✅ |
 | 11 | [Ice Cream Budget](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/11-ice-cream-budget) | JavaScript| Create a budget for an ice cream | None, is JavaScript | ✅ |
 | 12 | [System Admin Access](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/12-system-admin-access) | JavaScript | Check if a user is "Admin" with JavaScript | None, is JavaScript | ✅ |
-| 13 | Rent Comparison | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 13 | [Rent Comparison](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/13-rent-comparison) | HTML, CSS & JavaScript | Build a webpage that compares the average rent in Paris to the average rent in Barcelona | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/13-rent-comparison/)| ✅ |
 | 14 | Gallery | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 15 | Milla's Motos | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 16 | Bakery Navigation Menu | _Soon_ | _Soon_ | _Soon_ | 🚧 |
