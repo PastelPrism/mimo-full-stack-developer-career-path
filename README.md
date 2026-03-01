@@ -31,15 +31,15 @@ Extended challenges for each project will be added to this folder later on.
 
 | #  | Project Name | Languages | Project Description | Project Page | Progress |
 |----|--------------|-----------|----------------------|--------------|----------|
-| 1  | [Linktree](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/1-linktree) | HTML & CSS | Create a Linktree page for Emmy | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/1-linktree/) | ✅ |
-| 2  | [Unit Converter](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/2-unit-converter) | HTML, CSS & JavaScript | Create a miles-to-km converter | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/2-unit-converter/) | ✅ |
-| 3  | [Air Conditioning Program](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/3-air-conditioning-program) | JavaScript | Create automation with JavaScript on air conditioning devices | None, is JavaScript | ✅ |
-| 4  | Class Test Results | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 5  | Trip Planner | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 6  | Coffee Shop Menu | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 7  | Online Resume | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 8  | Portfolio Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 9  | Vintage Cars Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 01  | [Linktree](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/01-linktree) | HTML & CSS | Create a Linktree page for Emmy | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/01-linktree/) | ✅ |
+| 02  | [Unit Converter](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/02-unit-converter) | HTML, CSS & JavaScript | Create a miles-to-km converter | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/02-unit-converter/) | ✅ |
+| 03  | [Air Conditioning Program](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/03-air-conditioning-program) | JavaScript | Create automation with JavaScript on air conditioning devices | None, is JavaScript | ✅ |
+| 04  | Class Test Results | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 05  | Trip Planner | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 06  | Coffee Shop Menu | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 07  | Online Resume | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 08  | Portfolio Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 09  | Vintage Cars Website | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 10 | Guessing Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 11 | Ice Cream Budget | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 12 | System Admin Access | _Soon_ | _Soon_ | _Soon_ | 🚧 |
