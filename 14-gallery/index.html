@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Modal Gallery</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome to my gallery!</h1>
+    <div class="gallery">
+      <div class="item">
+        <img src="https://mimo.app/i/whispurr.png" alt="Whispurr" class="thumbnail" onclick="showModal(this)">
+        <h2>Whispurr</h2>
+      </div>
+      <div class="item">
+        <img src="https://mimo.app/i/babaganoosh.png" alt="Babaganoosh" class="thumbnail" onclick="showModal(this)">
+        <h2>Babaganoosh</h2>
+      </div>
+      <div class="item">
+        <img src="https://mimo.app/i/nacho.png" alt="Nacho" class="thumbnail" onclick="showModal(this)">
+        <h2>Nacho</h2>
+      </div>
+    </div>
+    <div id="modal">
+      <span id="modal-close-button" onclick="hideModal()">x</span>
+      <img id="modal-content">
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
