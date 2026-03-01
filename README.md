@@ -31,8 +31,8 @@ Extended challenges for each project will be added to this folder later on.
 
 | #  | Project Name | Languages | Project Description | Project Page | Progress |
 |----|--------------|-----------|----------------------|--------------|----------|
-| 1  | [Linktree](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/linktree) | HTML & CSS | Create a Linktree page for Emmy | [View](https://pastelprism.github.io/mimo-front-end-developer/linktree/) |  |
-| 2  | Unit Converter | HTML, CSS & JavaScript | Create a miles-to-km converter | [View](https://pastelprism.github.io/mimo-front-end-developer/unit-converter/) | 🚧 |
+| 1  | [Linktree](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/linktree) | HTML & CSS | Create a Linktree page for Emmy | [View](https://pastelprism.github.io/mimo-full-stackdeveloper-career-path/linktree/) | ✅ |
+| 2  | Unit Converter | HTML, CSS & JavaScript | Create a miles-to-km converter | _Soon_ | 🚧 |
 | 3  | Air Conditioning Program | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 4  | Class Test Results | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 5  | Trip Planner | _Soon_ | _Soon_ | _Soon_ | 🚧 |
