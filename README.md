@@ -40,7 +40,7 @@ Extended challenges for each project will be added to this folder later on.
 | 07  | [Online Resume](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/07-online-resume) | HTML | Create an online resume | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/07-online-resume/) | ✅ |
 | 08  | [Portfolio Website](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/08-portfolio-website) | HTML | Create a portfolio website for Nina| [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/08-portfolio-website/) | ✅ |
 | 09  | [Vintage Cars Website](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/09-vintage-cars-website) | HTML | Create a webshop in HTML for a vintage car retailer | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/09-vintage-cars-website/) | ✅ |
-| 10 | Guessing Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 10 | [Guessing Game](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/10-guessing-game) | HTML, CSS & JavaScript | Create a Number Guessing Game | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/10-guessing-game/) | ✅ |
 | 11 | Ice Cream Budget | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 12 | System Admin Access | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 13 | Rent Comparison | _Soon_ | _Soon_ | _Soon_ | 🚧 |
