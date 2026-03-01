@@ -1,0 +1,25 @@
+body {
+  background-color: slateblue;
+  font-family: 'Courier New', Courier, monospace;
+  color: beige;
+  text-align: center;
+}
+
+img {
+  border-radius: 50px 50px 50px 50px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+a {
+ background-color: white;
+ font-size: 20px;
+ border-radius: 10px 10px;
+ padding: 10px 10px;
+display: block;
+text-align: center;
+margin: 10px;
+color: slateblue;
+}
