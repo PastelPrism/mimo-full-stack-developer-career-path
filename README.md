@@ -45,13 +45,13 @@ Extended challenges for each project will be added to this folder later on.
 | 12 | [System Admin Access](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/12-system-admin-access) | JavaScript | Check if a user is "Admin" with JavaScript | None, is JavaScript | ✅ |
 | 13 | [Rent Comparison](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/13-rent-comparison) | HTML, CSS & JavaScript | Build a webpage that compares the average rent in Paris to the average rent in Barcelona | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/13-rent-comparison/)| ✅ |
 | 14 | [Gallery](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/14-gallery) | HTML, CSS & JavaScript| Create a cat gallery with modal | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/14-gallery/) | ✅ |
-| 15 | Milla's Motos | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 16 | Bakery Navigation Menu | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 17 | Best Movie Webpage | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 15 | [Milla's Motos](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/15-millas-motos) | HTML & CSS | Create a webpage for a motor store using CSS flexbox | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/15-millas-motos/) | ✅ |
+| 16 | [Bakery Navigation Menu](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/16-bakery-navigation-menu) | HTML & CSS | Create the nav bar for a bakery store | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/16-bakery-navigation-menu/) | ✅ |
+| 17 | [Best Movie Webpage](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/17-best-movies-webpage) | HTML, CSS & JavaScript| Feature the best movies from the past using CSS flexbox | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/17-best-movies-webpage/) | ✅ |
 | 18 | [Digital Business Card](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/18-digital-business-card) | HTML & CSS | Create a digital business card for Jane | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/18-digital-business-card/) | ✅ |
 | 19 | [Sudoku Puzzle](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/19-sudoku-puzzle) | HTML & CSS | Create the layout of a Sudoku puzzle using CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/19-sudoku-puzzle/) | ✅ |
-| 20 | Ticket Machine | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 21 | Wildlife Image Gallery | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 20 | [Ticket Machine](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/20-ticket-machine) | HTML & CSS | Create the layout for a ticket machine with CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/20-ticket-machine/) | ✅ |
+| 21 | [Wildlife Image Gallery](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/21-wildlife-gallery) | HTML & CSS | Style a wildlife image gallery using CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/21-wildlife-image-gallery/) | ✅ |
 | 22 | Trivia Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 23 | Soccer Team | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 24 | Shopping Cart | _Soon_ | _Soon_ | _Soon_ | 🚧 |
