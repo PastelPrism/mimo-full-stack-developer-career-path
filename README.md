@@ -48,8 +48,8 @@ Extended challenges for each project will be added to this folder later on.
 | 15 | Milla's Motos | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 16 | Bakery Navigation Menu | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 17 | Best Movie Webpage | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 18 | Digital Business Card | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 19 | Sudoku Puzzle | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 18 | [Digital Business Card](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/18-digital-business-card) | HTML & CSS | Create a digital business card for Jane | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/18-digital-business-card/) | ✅ |
+| 19 | [Sudoku Puzzle](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/19-sudoku-puzzle) | HTML & CSS | Create the layout of a Sudoku puzzle using CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/19-sudoku-puzzle/) | ✅ |
 | 20 | Ticket Machine | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 21 | Wildlife Image Gallery | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 22 | Trivia Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
