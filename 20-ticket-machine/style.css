@@ -1,0 +1,20 @@
+.grid-item {
+  background-color: #1E96FF;
+  color: #FFFFFF;
+  padding: 15px;
+}
+
+h2 {
+  text-align: center;
+  color: #1E96FF;
+}
+
+button {
+  border: 1px solid #1E96FF;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ gap: 25px 5px;
+}
