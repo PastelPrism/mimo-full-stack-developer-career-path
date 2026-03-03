@@ -53,9 +53,9 @@ Extended challenges for each project will be added to this folder later on.
 | 20 | [Ticket Machine](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/20-ticket-machine) | HTML & CSS | Create the layout for a ticket machine with CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/20-ticket-machine/) | ✅ |
 | 21 | [Wildlife Image Gallery](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/21-wildlife-gallery) | HTML & CSS | Style a wildlife image gallery using CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/21-wildlife-image-gallery/) | ✅ |
 | 22 | [Trivia Game](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/22-trivia-game) | HTML, CSS & JavaScript | Create a Trivia Game with JavaScript|  [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/22-trivia-game/) | ✅ |
-| 23 | Soccer Team | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 24 | Shopping Cart | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 25 | Jeans Shop | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 23 | [Soccer Team](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/23-soccer-team) | JavaScript | Display a soccer team using JavaScript | None, is JavaScript | ✅ |
+| 24 | [Shopping Cart](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/24-shopping-cart) | JavaScript | Add and remove items from a wishlist with JavaScript | None, is JavaScript | ✅ |
+| 25 | [Jeans Shop](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/25-jeans-shop) | JavaScript | Manage the stock of an online Jeans Shop | None, is JavaScript | ✅ |
 | 26 | Rick and Morty | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 27 | Library Books | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 28 | Product Order Form Validation | _Soon_ | _Soon_ | _Soon_ | 🚧 |
