@@ -52,7 +52,7 @@ Extended challenges for each project will be added to this folder later on.
 | 19 | [Sudoku Puzzle](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/19-sudoku-puzzle) | HTML & CSS | Create the layout of a Sudoku puzzle using CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/19-sudoku-puzzle/) | ✅ |
 | 20 | [Ticket Machine](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/20-ticket-machine) | HTML & CSS | Create the layout for a ticket machine with CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/20-ticket-machine/) | ✅ |
 | 21 | [Wildlife Image Gallery](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/21-wildlife-gallery) | HTML & CSS | Style a wildlife image gallery using CSS Grid | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/21-wildlife-image-gallery/) | ✅ |
-| 22 | Trivia Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 22 | [Trivia Game](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/22-trivia-game) | HTML, CSS & JavaScript | Create a Trivia Game with JavaScript|  [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/22-trivia-game/) | ✅ |
 | 23 | Soccer Team | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 24 | Shopping Cart | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 25 | Jeans Shop | _Soon_ | _Soon_ | _Soon_ | 🚧 |
