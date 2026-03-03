@@ -56,7 +56,7 @@ Extended challenges for each project will be added to this folder later on.
 | 23 | [Soccer Team](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/23-soccer-team) | JavaScript | Display a soccer team using JavaScript | None, is JavaScript | ✅ |
 | 24 | [Shopping Cart](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/24-shopping-cart) | JavaScript | Add and remove items from a wishlist with JavaScript | None, is JavaScript | ✅ |
 | 25 | [Jeans Shop](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/25-jeans-shop) | JavaScript | Manage the stock of an online Jeans Shop | None, is JavaScript | ✅ |
-| 26 | Rick and Morty | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 26 | [Rick and Morty](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/26-rick-and-morty) | HTML, CSS & JavaScript | _Soon_ | _Soon_ | 🚧 |
 | 27 | Library Books | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 28 | Product Order Form Validation | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 29 | League Games | _Soon_ | _Soon_ | _Soon_ | 🚧 |
