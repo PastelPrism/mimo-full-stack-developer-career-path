@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: lightskyblue;
+}
+
+.pet-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.pet {
+  cursor: pointer;
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+  width: 240px;
+}
+
+.pet.selected {
+  border: 2px solid red;
+}
+
+.emoji {
+  font-size: 70px;
+  cursor: pointer;
+  margin-top: 10px;
+}
