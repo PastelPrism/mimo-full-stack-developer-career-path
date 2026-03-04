@@ -1,7 +1,8 @@
-body, html {
-  font-family: sans-serif;
-  margin: 0;
+body,
+html {
   height: 100%;
+  margin: 0;
+  font-family: sans-serif;
 }
 
 .chat-header {
@@ -19,14 +20,14 @@ body, html {
 }
 
 .message {
-  margin: 12px 0;
   display: flex;
   align-items: flex-end;
+  margin: 12px 0;
 }
 
-.bot-message .message-content { 
+.bot-message .message-content {
   max-width: 70%;
-  padding: 12px 10px;
+  padding: 12px 16px;
   background-color: whitesmoke;
   border-radius: 16px;
 }
@@ -38,4 +39,49 @@ body, html {
   background-color: salmon;
   padding: 10px 8px;
   border-radius: 50%;
- }
+}
+
+.user-message {
+  display: flex;
+  align-items: flex-end;
+  margin: 12px 0;
+  justify-content: flex-end;
+}
+
+.user-message .message-content {
+  max-width: 70%;
+  padding: 12px 16px;
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 16px;
+}
+
+.user-message .message-avatar {
+  font-size: 16px;
+  margin-left: 12px;
+  color: white;
+  background-color: dodgerblue;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.user-input {
+  margin: 10px 0;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: white;
+  color: dodgerblue;
+}
