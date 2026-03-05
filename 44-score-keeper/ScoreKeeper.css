@@ -1,0 +1,31 @@
+.score-keeper-container {
+  background-color: white;
+  text-align: center;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 640px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.score-keeper-heading {
+  color: teal;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.score-keeper-button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: white;
+  background-color: teal;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.score-keeper-button:hover {
+  background-color: darkslategray;
+}
