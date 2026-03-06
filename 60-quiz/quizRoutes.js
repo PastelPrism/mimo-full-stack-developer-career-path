@@ -5,12 +5,21 @@ const router = express.Router();
 const quiz = new Quiz();
 
 router.get("/question", (req, res) => {
-  const q = quiz.getRandomQuestion();
+  const question = quiz.getRandomQuestion();
+  res.json({
+    id: question.id,
+    question: question.question,
+    options: question.options,
+  });
+});
+
+router.post("/submit-answer", (req, res) => {
+  const { questionId, answer } = req.body;
+
+  const isCorrect = quiz.checkAnswer(questionId, answer);
 
   res.json({
-    id: q.id,
-    question: q.question,
-    options: q.options
+    correct: isCorrect,
   });
 });
 

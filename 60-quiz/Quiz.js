@@ -1,34 +1,35 @@
 const Question = require("./Question");
-
-const questionsData = [
-  {
-    id: 1,
-    question: "What is the capital of France?",
-    options: ["Paris", "Rome", "Berlin", "Madrid"],
-    correctAnswer: "Paris",
-  },
-  {
-    id: 2,
-    question: "What is 2 + 2?",
-    options: ["3", "4", "5", "6"],
-    correctAnswer: "4",
-  },
-];
+const db = require("./database");
 
 class Quiz {
-  constructor() {
-    this.questions = [];
-    for (let i = 0; i < questionsData.length; i++) {
-      const q = questionsData[i];
-      this.questions.push(
-        new Question(q.id, q.question, q.options, q.correctAnswer)
-      );
-    }
-  }
 
   getRandomQuestion() {
-    const index = Math.floor(Math.random() * this.questions.length);
-    return this.questions[index];
+    const row = db.prepare(`
+      SELECT * FROM questions
+      ORDER BY RANDOM()
+      LIMIT 1
+    `).get();
+
+    if (!row) {
+      return null;
+    }
+
+    const options = JSON.parse(row.options);
+
+    return new Question(row.id, row.question, options, row.correctAnswer);
+  }
+
+  checkAnswer(questionId, answer) {
+    const row = db.prepare(`
+      SELECT * FROM questions
+      WHERE id = ?
+    `).get(questionId);
+
+    if (!row) {
+      return null;
+    }
+
+    return answer === row.correctAnswer;
   }
 }
 
