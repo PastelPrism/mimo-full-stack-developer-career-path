@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <title></title>
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h2>The Backpack</h2>
+    <img id="backpack" src="https://mimo.app/i/backpack.png" />
+    <label for="quantity">Quantity:</label>
+    <input type="number" id="quantity" value="0" />
+    <label for="color">Color:</label>
+    <select id="color">
+      <option value="--">--</option>
+      <option value="white">White Leather</option>
+      <option value="black">Brown Leather</option>
+      <option value="brown">Black Leather</option>
+    </select>
+    <label for="address">Address:</label>
+    <input type="text" id="address" />
+    <label for="city">City:</label>
+    <input type="text" id="city" />
+    <label for="state">State:</label>
+    <input type="text" id="state" />
+    <button onclick="checkForm()" id="submit">Submit Order</button>
+    <h2 class="hidden" id="status">Order Submitted!</h2>
+  </body>
+</html>
