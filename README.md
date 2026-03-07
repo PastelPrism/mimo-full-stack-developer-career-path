@@ -57,30 +57,30 @@ Extended challenges for each project will be added to this folder later on.
 | 24 | [Shopping Cart](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/24-shopping-cart) | JavaScript | Add and remove items from a wishlist with JavaScript | None, is JavaScript | ✅ |
 | 25 | [Jeans Shop](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/25-jeans-shop) | JavaScript | Manage the stock of an online Jeans Shop | None, is JavaScript | ✅ |
 | 26 | [Rick and Morty](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/26-rick-and-morty) | HTML, CSS & JavaScript | Transition local JSON to pulling data via API | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/26-rick-and-morty/) | ✅ |
-| 27 | Library Books | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 28 | Product Order Form Validation | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 29 | League Games | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 30 | Caesar Cipher Translator | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 31 | Todo App | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 32 | Dynamic Comments Section | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 27 | [Library Books](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/27-library-books) | JavaScript | _Soon_ | None, is JavaScript | ✅ |
+| 28 | [Product Order Form Validation](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/28-product-order-form-validation) | HTML, CSS & JavaScript | _Soon_ | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/28-product-order-form-validation/) | ✅ |
+| 29 | [League Games](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/29-league-games) | JavaScript | _Soon_ | None, is JavaScript | ✅ |
+| 30 | [Caesar Cipher Translator](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/30-caesar-cipher-translator) | HTML, CSS & JavaScript_ | _Soon_ | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/30-ceasar-cipher-translator/) | ✅ |
+| 31 | [Todo App](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/31-todo-app) | HTML, CSS & JavaScript | _Soon_ | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/31-todo-app/) | ✅ |
+| 32 | [Dynamic Comments Section](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/32-dynamic-comments-section) | HTML, CSS & JavaScript | _Soon_ | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/01-linktree/) | ✅ |
 | 33 | Social Media Posts | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 34 | Typewriter Portfolio | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 34 | [Typewriter Portfolio](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/34-typewriter-portfolio) | HTML & CSS | _Soon_ |[View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/34-typewriter-portfolio/) | ✅ |
 | 35 | Form Validator | _Soon_ | _Soon_ | _Soon_ | 🚧 ||
 | 36 | Business Marketing Page | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 37 | Destination Page | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 38 | Comedian Bot | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 38 | [Comedian Bot](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/38-comedian-bot) | HTML, CSS & JavaScript | _Soon_ | [View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/38-comedian-bot/) | ✅ |
 | 39 | Random Day At Work | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 40 | Pixel Paws | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 40 | [Pixel Paws](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/40-pixel-paws) | HTML, CSS & JavaScript | _Soon_ |[View](https://pastelprism.github.io/mimo-full-stack-developer-career-path/40-pixel-paws/) | ✅ |
 | 41 | Desk Customization App | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 42 | Adventure Game | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 43 | Smartphone Display | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 44 | Score Keeper | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 45 | Wordle Clone | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 46 | Pokédex | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 44 | [Score Keeper](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/44-score-keeper) | React | _Soon_ | _Soon_ | ✅ |
+| 45 | [Wordle Clone](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/45-wordle-clone) | React | _Soon_ | _Soon_ | ✅ |
+| 46 | [Pokédex](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/46-pokedex) | React | _Soon_ | _Soon_ | ✅ |
 | 47 | Dynamic Reviews | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 48 | Dynamic About Me Page | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 49 | Single Page Application | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 50 | Random Numbers |_Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 50 | [Random Numbers](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/50-dynamic-reviews) | Express API | _Soon_ | _Soon_ | ✅ |
 | 51 | Calculator | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 52 | Task Manager | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 53 | Food Delivery Service | _Soon_ | _Soon_ | _Soon_ | 🚧 |
@@ -90,8 +90,8 @@ Extended challenges for each project will be added to this folder later on.
 | 57 | Bookstore Inventory |_Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 58 | Car Rental Search | _Soon_ | _Soon_ | _Soon_ | 🚧 |
 | 59 | Employee Database | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 60 | Quiz | _Soon_ | _Soon_ | _Soon_ | 🚧 |
-| 61 | Pixel Grid | _Soon_ | _Soon_ | _Soon_ | 🚧 |
+| 60 | [Quiz](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/60-quiz) | Express API | _Soon_ | _Soon_ | ✅ |
+| 61 | [Pixel Grid](https://github.com/PastelPrism/mimo-full-stack-developer-career-path/tree/main/61-pixel-grid) | React | _Soon_ | _Soon_ | ✅ |
 
 
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
